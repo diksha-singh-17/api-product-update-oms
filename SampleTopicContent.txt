@@ -1,0 +1,239 @@
+[
+  {
+    "itemGrandparent": null,
+    "itemParent": "51941M",
+    "item": "3-51941M",
+    "itemDesc": "QUINTESSENCE MATT - QN",
+    "shortDesc": "QUINTESSENCE MATT - QN",
+    "packInd": "N",
+    "status": "A",
+    "itemLevel": 2,
+    "tranLevel": 2,
+    "dept": 1010,
+    "classAttribute": 10,
+    "subclass": 10,
+    "diff1": "3-SIZE",
+    "diff2": "INVENTORY",
+    "diff3": null,
+    "diff4": null,
+    "primaryRefItemInd": "N",
+    "originalRetail": 6277.5,
+    "sellableInd": "Y",
+    "orderableInd": "Y",
+    "inventoryInd": "Y",
+    "packitemBreakout": [],
+    "itemSupplier": [
+      {
+        "supplier": 15012,
+        "primarySuppInd": "Y",
+        "vpn": "9319481",
+        "directShipInd": "N",
+        "itemSupplierCountry": [
+          {
+            "originCountryId": "CA",
+            "primaryCountryInd": "Y",
+            "unitCost": 4185,
+            "leadTime": 0,
+            "pickupLeadTime": null,
+            "suppPackSize": 1,
+            "innerPackSize": 1,
+            "links": [],
+            "hyperMediaContent": {
+              "linkRDO": []
+            }
+          }
+        ],
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      }
+    ],
+    "vatItem": [
+      {
+        "vatRegion": 1,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 2,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 3,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 4,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 5,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 6,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 7,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 8,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 9,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 10,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 11,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 12,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 13,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 14,
+        "activeDateDisplay": "16-Nov-2020 00:00:00",
+        "activeDate": 1605484800000,
+        "vatType": "B",
+        "vatCode": "CATAX",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      },
+      {
+        "vatRegion": 1000,
+        "activeDateDisplay": "23-Sep-2019 00:00:00",
+        "activeDate": 1569196800000,
+        "vatType": "B",
+        "vatCode": "Z",
+        "vatRate": 0,
+        "links": [],
+        "hyperMediaContent": {
+          "linkRDO": []
+        }
+      }
+    ],
+    "links": [],
+    "hyperMediaContent": {
+      "linkRDO": []
+    }
+  }
+]
